@@ -13,4 +13,4 @@ This program was developed on Ubuntu 12.04 LTS (Elementary OS adaptation) and us
 
 Then run ´make´ and test it with ´make run´. You should se something like this.
 
-![alt tag](http://url/to/img.png)
+![alt tag](https://raw.github.com/mariowise/birdscage/master/etc/screenshot.png)
