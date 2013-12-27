@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <mpi.h>
 #include <stddef.h>
-#include <pthread.h>
 
 #include <getpar.h>
 #include <birds/birds.h>

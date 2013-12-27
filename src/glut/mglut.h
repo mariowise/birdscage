@@ -1,7 +1,7 @@
 #ifndef MGLUT_H_
 #define MGLUT_H_
 
-#define FPS 75*1000
+#define FPS 10*1000
 
 int __argc;
 
